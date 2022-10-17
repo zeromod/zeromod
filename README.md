@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](Introducing_Android_Jetpack.gif)
 
 <!--
