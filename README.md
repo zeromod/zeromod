@@ -1,4 +1,5 @@
-![](Introducing_Android_Jetpack.gif)
+![image](https://github.com/zeromod/zeromod/assets/25141462/10c7c7ee-df1b-454c-bee1-f2d31c9470ca)
+
 
 <!--
 **zeromod/zeromod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
